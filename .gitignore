@@ -4,3 +4,5 @@
 /Bin
 # Obj files
 /Obj
+# Node Modules
+/frontend/node_modules
